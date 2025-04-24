@@ -4,6 +4,10 @@
 
 Cajero Automático
 
+##### Autor
+
+José Roberto Solares Lara.
+
 
 ##### Descripción
 
